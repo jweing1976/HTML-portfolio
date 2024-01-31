@@ -2,6 +2,6 @@ html{
     background: green;
 }
 
-.href{
-    color: red;
-}
+<style>
+    a {color: red; }
+</style>
