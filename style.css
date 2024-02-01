@@ -1,9 +1,7 @@
-html{
-    background: green;
+body{
+  background: green;
 }
 
-<style>
-    a {
-        color: red; 
-    }
-</style>
+a {
+  color: red; 
+}
